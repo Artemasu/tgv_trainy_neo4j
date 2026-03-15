@@ -4,6 +4,12 @@ TGV Trainy est une application web Flask de recherche d'itinéraires ferroviaire
 
 Ce projet a été réalisé dans le cadre du cours Hands-On-BDD orientée graphes - Neo4j à l'ESME.
 
+## Est présent dans ce repository
+- Le graphe du projet
+- Le code du site flask
+- Le code préparation des données
+- Le rapport sur l'utilisation de l'ia et explication du site
+
 ## 🚀 Installation et Lancement
 
 ### 1. Prérequis
